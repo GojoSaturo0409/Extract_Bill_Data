@@ -1,0 +1,34 @@
+📄 Testing: TRAINING_SAMPLES/train_sample_1.pdf
+============================================================
+✅ Image loaded (923986 bytes)
+📤 Sending to API...
+============================================================
+✅ EXTRACTION SUCCESSFUL
+
+📊 RESULTS:
+   Total items: 0
+   Tokens: 0
+
+📋 LINE ITEMS:
+   Page 1 (Bill Detail):
+
+============================================================
+{
+  "data": {
+    "pagewise_line_items": [
+      {
+        "bill_items": [],
+        "page_no": "1",
+        "page_type": "Bill Detail"
+      }
+    ],
+    "total_item_count": 0
+  },
+  "error": null,
+  "is_success": true,
+  "token_usage": {
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0
+  }
+}

@@ -1,0 +1,39 @@
+
+# 📋 ALL 18 FILES FOR BILL EXTRACTION SYSTEM
+
+## CORE PYTHON FILES (5)
+1. config.py - Configuration management
+2. src/models.py - Pydantic data models
+3. src/validators.py - Request/response validators
+4. src/bill_extractor.py - Main extraction logic (Gemini)
+5. app.py - Flask REST API
+
+## CONFIGURATION FILES (3)
+6. requirements.txt - Python dependencies
+7. .env.example - Environment template
+8. .gitignore - Git ignore rules
+
+## DEPLOYMENT FILES (2)
+9. Dockerfile - Docker image
+10. docker-compose.yml - Docker compose
+
+## INITIALIZATION FILES (2)
+11. src/__init__.py - Make src a package
+12. tests/__init__.py - Make tests a package
+
+## SCRIPTS (2)
+13. setup.sh - Linux/Mac setup automation
+14. quick_test.py - Quick test script for local images
+
+## DOCUMENTATION FILES (3+)
+15. README.md - Main documentation
+16. SETUP_AND_TESTING.md - Setup & testing guide
+17. DEPLOYMENT.md - Deployment guide
+18. tests/test_api.py - Unit tests
+
+## TOTAL: 18 FILES
+
+Each file is provided below with complete, production-ready code.
+All files are ready to copy-paste into your project.
+
+NO EDITING NEEDED - Just copy, add your API key, and run!
